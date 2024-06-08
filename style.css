@@ -8,7 +8,12 @@ h1 {
     background-size: cover;
 }
 
-
+div {
+    background-color: green;
+    width: 60%;
+    margin-left: 400px;
+    margin-right: 400px;
+}
 
 nav {
     background-color: red;
