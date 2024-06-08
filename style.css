@@ -19,8 +19,11 @@ div {
 }
 
 nav {
-    background-color: red;
-    color: white;
+    background-color: white;
+}
+
+a {
+    color: red;
 }
 
 h2 {
