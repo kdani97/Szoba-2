@@ -37,3 +37,8 @@ h3 {
     color: red;
     font-style: italic;
 }
+
+article {
+    background-color: white;
+    text-align: center;
+}
