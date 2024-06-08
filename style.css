@@ -26,5 +26,10 @@ nav {
 h2 {
     text-align: center;
     color: white;
+}
 
+h3 {
+    background-color: white;
+    color: red;
+    font-style: italic;
 }
