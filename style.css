@@ -4,4 +4,7 @@ h1 {
     color: white;
 }
 
-nav
+nav {
+    background-color: red;
+    color: white;
+}
