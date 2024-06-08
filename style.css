@@ -42,3 +42,15 @@ article {
     background-color: white;
     text-align: center;
 }
+
+h4{
+    text-align: center;
+    color: red;
+}
+
+h5{
+    background-color: white;
+    color: red;
+    font-style: italic;
+}
+
